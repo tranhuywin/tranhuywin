@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tran Huy Win
 - 👀 I’m interested in video games.
-- 🌱 I’m currently learning ReactJs and NodeJs.
+- 🌱 I’m currently working on ReactJs and NodeJs.
 - 📫 How to reach me ...
 
 <!---
